@@ -26,3 +26,5 @@
 25. [ ] [Основные понятия теории вероятностей](https://web.archive.org/web/20201130231139/http://mathhelpplanet.com/static.php?p=osnovnye-ponyatiya-tyeorii-veroyatnostyei)
 26. [ ] [Статистические гипотезы](http://mathhelpplanet.com/static.php?p=statisticheskie-gipotezy)
 27. [ ] [Проверка статистических гипотез](http://www.machinelearning.ru/wiki/index.php?title=Проверка_статистических_гипотез)
+28. [ ] [Дисбаланс классов](https://alexanderdyakonov.wordpress.com/2021/05/27/imbalance/)
+29. [ ] [Нужно ли бояться несбалансированности классов?](https://habr.com/ru/post/349078/)
