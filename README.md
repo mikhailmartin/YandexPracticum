@@ -28,3 +28,9 @@
 27. [ ] [Проверка статистических гипотез](http://www.machinelearning.ru/wiki/index.php?title=Проверка_статистических_гипотез)
 28. [ ] [Дисбаланс классов](https://alexanderdyakonov.wordpress.com/2021/05/27/imbalance/)
 29. [ ] [Нужно ли бояться несбалансированности классов?](https://habr.com/ru/post/349078/)
+30. [ ] [The Python Graph Gallery](https://www.python-graph-gallery.com/)
+31. [ ] [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
+32. [ ] [How long should you run your A/B Test?](https://vwo.com/tools/ab-test-duration-calculator/)
+33. [ ] [Intro to Metrics](https://medium.com/googleplaydev/a-kpis-guide-for-google-play-apps-and-games-intro-to-metrics-214da979f5a2)
+34. [ ] [Style Pandas Dataframe Like a Master](https://towardsdatascience.com/style-pandas-dataframe-like-a-master-6b02bf6468b0)
+35. 
