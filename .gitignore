@@ -9,3 +9,6 @@ __pycache__/
 
 /theory
 /datasets
+
+# CatBoost
+/catboost_info
