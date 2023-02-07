@@ -7,7 +7,7 @@
 # bytecode
 __pycache__/
 
-/theory
+/Теория
 /datasets
 
 # CatBoost
