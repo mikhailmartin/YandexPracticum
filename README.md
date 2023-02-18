@@ -33,4 +33,8 @@
 32. [ ] [How long should you run your A/B Test?](https://vwo.com/tools/ab-test-duration-calculator/)
 33. [ ] [Intro to Metrics](https://medium.com/googleplaydev/a-kpis-guide-for-google-play-apps-and-games-intro-to-metrics-214da979f5a2)
 34. [ ] [Style Pandas Dataframe Like a Master](https://towardsdatascience.com/style-pandas-dataframe-like-a-master-6b02bf6468b0)
-35. 
+35. [ ] [Плавное введение в Natural Language Processing](https://datastart.ru/blog/read/plavnoe-vvedenie-v-natural-language-processing-nlp)
+36. [ ] [Основы Natural Language Processing для текста](https://habr.com/ru/company/Voximplant/blog/446738/)
+37. [ ] [Выявление и классификация токсичных комментариев. Лекция в Яндексе](https://habr.com/ru/company/yandex/blog/414993/)
+38. [ ] [Word2vec в картинках](https://habr.com/ru/post/446530/)
+39. [ ] [Transformer в картинках](https://habr.com/ru/post/486358/)
