@@ -38,3 +38,8 @@
 37. [ ] [Выявление и классификация токсичных комментариев. Лекция в Яндексе](https://habr.com/ru/company/yandex/blog/414993/)
 38. [ ] [Word2vec в картинках](https://habr.com/ru/post/446530/)
 39. [ ] [Transformer в картинках](https://habr.com/ru/post/486358/)
+40. [ ] [Документация PostgreSQL с полным списком оконных функций](https://postgrespro.ru/docs/postgresql/9.5/functions-window)
+41. [ ] [SQL Style Guide](https://www.sqlstyle.guide/ru/)
+42. [ ] [Памятка/шпаргалка по SQL](https://habr.com/ru/post/564390/)
+43. [ ] [Нормализация реляционных баз данных](https://club.shelek.ru/viewart.php?id=177)
+44. [ ] [Нормализация отношений. Шесть нормальных форм](https://habr.com/ru/post/254773/)
