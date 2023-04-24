@@ -11,4 +11,4 @@ __pycache__/
 /datasets
 
 # CatBoost
-/catboost_info
+catboost_info/

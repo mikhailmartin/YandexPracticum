@@ -1,51 +1,34 @@
-# Полезные ссылки
-1. [X] [Обработка пропусков в данных](https://loginom.ru/blog/missing)
-2. [X] [Руководство по использованию pandas для анализа больших наборов данных](https://habr.com/ru/company/ruvds/blog/442516/)
-3. [X] [Нечеткий поиск в словаре с универсальным автоматом Левенштейна. Часть 1](https://habr.com/ru/post/275937/)
-4. [X] [10 трюков библиотеки Python Pandas, которые вам нужны](https://proglib.io/p/pandas-tricks)
-5. [ ] [Описательные статистики](http://statistica.ru/theory/opisatelnye-statistiki/)
-6. [ ] [Открытый курс машинного обучения. Тема 2: Визуализация данных c Python](https://habr.com/ru/company/ods/blog/323210/)
-7. [ ] [Изучаем pandas. Урок 3. Доступ к данным в структурах pandas](https://devpractice.ru/pandas-indexing-part3/)
-8. [ ] [Индексация с использованием логических выражений](https://devpractice.ru/pandas-indexing-part3/#p6)
-9. [ ] [Аналитикам: большая шпаргалка по Pandas](https://smysl.io/blog/pandas/#Объединяем-несколько-датафреймов)
-10. [ ] [5 простых способов визуализации данных на Python. С кодом](https://medium.com/nuances-of-programming/5-простых-способов-визуализации-данных-на-python-с-кодом-e0053808c83d)
-11. [ ] [Построение графиков в Python при помощи Matplotlib](https://python-scripts.com/matplotlib)
-12. [ ] [Корреляция и коэффициент корреляции](https://tocodata.com/marketing/korrelyaciya.html)
-13. [ ] [Открытый курс машинного обучения. Тема 1. Первичный анализ данных с Pandas](https://habr.com/ru/company/ods/blog/322626/)
-14. [ ] [Считаем производные метрики](https://smysl.io/blog/pandas/#Считаем-производные-метрики)
-15. [ ] [Scatter - график разброса (точки)](https://pyprog.pro/mpl/mpl_scatter.html?ysclid=l65k3vmmqd649359421)
-16. [ ] [Подробное руководство по группировке и агрегированию с помощью pandas](https://dfedorov.spb.ru/pandas/Подробное%20руководство%20по%20группировке%20и%20агрегированию%20с%20помощью%20pandas.html)
-17. [ ] [Понимание функции transform в Pandas](https://dfedorov.spb.ru/pandas/Понимание%20функции%20transform%20в%20Pandas.html)
-18. [ ] [CFA - Квартили, квинтили, децили и процентили](https://fin-accounting.ru/cfa/l1/quantitative/cfa-quartiles-quintiles-deciles-percentiles?ysclid=l7gy2kky4i156375632)
-19. [ ] [Постер «Графики, которые убеждают всех»](https://www.notion.so/6c5ae8ceb8b5411e907c93c9b5e6a44e)
-20. [ ] [Гайд по Markdown](https://www.markdownguide.org/basic-syntax/)
-21. [ ] [шпаргалка по pandas](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
-22. [ ] [Математическое ожидание и дисперсия случайной величины](https://function-x.ru/probabilities_expectation_dispersion.html)
-23. [ ] [Как вычислить математическое ожидание и дисперсию непрерывной случайной величины?](http://www.mathprofi.ru/matematicheskoe_ozhidanie_i_dispersiya_nsv.html)
-24. [ ] [Электронный учебник по статистике](http://statsoft.ru/home/textbook/default.htm)
-25. [ ] [Основные понятия теории вероятностей](https://web.archive.org/web/20201130231139/http://mathhelpplanet.com/static.php?p=osnovnye-ponyatiya-tyeorii-veroyatnostyei)
-26. [ ] [Статистические гипотезы](http://mathhelpplanet.com/static.php?p=statisticheskie-gipotezy)
-27. [ ] [Проверка статистических гипотез](http://www.machinelearning.ru/wiki/index.php?title=Проверка_статистических_гипотез)
-28. [ ] [Дисбаланс классов](https://alexanderdyakonov.wordpress.com/2021/05/27/imbalance/)
-29. [ ] [Нужно ли бояться несбалансированности классов?](https://habr.com/ru/post/349078/)
-30. [ ] [The Python Graph Gallery](https://www.python-graph-gallery.com/)
-31. [ ] [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
-32. [ ] [How long should you run your A/B Test?](https://vwo.com/tools/ab-test-duration-calculator/)
-33. [ ] [Intro to Metrics](https://medium.com/googleplaydev/a-kpis-guide-for-google-play-apps-and-games-intro-to-metrics-214da979f5a2)
-34. [ ] [Style Pandas Dataframe Like a Master](https://towardsdatascience.com/style-pandas-dataframe-like-a-master-6b02bf6468b0)
-35. [ ] [Плавное введение в Natural Language Processing](https://datastart.ru/blog/read/plavnoe-vvedenie-v-natural-language-processing-nlp)
-36. [ ] [Основы Natural Language Processing для текста](https://habr.com/ru/company/Voximplant/blog/446738/)
-37. [ ] [Выявление и классификация токсичных комментариев. Лекция в Яндексе](https://habr.com/ru/company/yandex/blog/414993/)
-38. [ ] [Word2vec в картинках](https://habr.com/ru/post/446530/)
-39. [ ] [Transformer в картинках](https://habr.com/ru/post/486358/)
-40. [ ] [Документация PostgreSQL с полным списком оконных функций](https://postgrespro.ru/docs/postgresql/9.5/functions-window)
-41. [ ] [SQL Style Guide](https://www.sqlstyle.guide/ru/)
-42. [ ] [Памятка/шпаргалка по SQL](https://habr.com/ru/post/564390/)
-43. [ ] [Нормализация реляционных баз данных](https://club.shelek.ru/viewart.php?id=177)
-44. [ ] [Нормализация отношений. Шесть нормальных форм](https://habr.com/ru/post/254773/)
-45. [ ] [Глубокое обучение: разбираемся со свёртками](https://medium.com/@balovbohdan/глубокое-обучение-разбираемся-со-свертками-6e47bfc27792)
-46. [ ] [Глубокие свёрточные нейросети: руководство для начинающих](https://nuancesprog.ru/p/8802/)
-47. [ ] [Принцип работы свёрточной нейронной сети. Просто о сложном](https://habr.com/ru/post/416777/)
-48. [ ] [Введение в свёрточные нейронные сети](https://habr.com/ru/post/454986/)
-49. [ ] [Компьютерное зрение. Задачи, области применения, перспективы](https://vc.ru/ml/166105-kompyuternoe-zrenie-zadachi-oblasti-primeneniya-perspektivy)
-50. [ ] [Что умеют «Яндекс.Картинки»: десять функций, которые стали возможны благодаря машинному обучению](https://vc.ru/yandex/176676-chto-umeyut-yandeks-kartinki-desyat-funkciy-kotorye-stali-vozmozhny-blagodarya-mashinnomu-obucheniyu)
+# Проекты, выполненные в рамках прохождения [курса от Яндекс.Практикума «Специалист по Data Science»](https://practicum.yandex.ru/profile/data-scientist/)
+
+| #  | название спринта                                                                                                                                    | название проекта                          | краткое описание                                                                                                                                       | используемые инструменты                                         |
+|----|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| 3  | [Базовый Python](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2003%20«Базовый%20Python»)                                     | -                                         | Стандартная тетрадка с примерами функционала работы в jupyter.                                                                                         | jupyter, python                                                  |
+| 4  | [Предобработка данных](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2004%20«Предобработка%20данных»)                         | Исследование надёжности заёмщиков         | Разбираемся, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.                                                 | pandas                                                           |
+| 5  | [Исследовательский анализ данных](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2005%20«Исследовательский%20анализ%20данных») | Исследование объявлений о продаже квартир | Исследуем архив объявлений о продаже квартир в поисках зависимостей для определения рыночной цены квартир.                                             | pandas, matplotlib, seaborn                                      |
+| 6  | [Статистический анализ данных](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2006%20«Статистический%20анализ%20данных»)       | -                                         | Анализируем пользователей оператора связи, чтобы предложить им наиболее выгодный тариф.                                                                | pandas, seaborn, scipy                                           |
+| 8  | [Сборный Проект - 1](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2008%20«Сборный%20Проект%20-%201»)                         | -                                         | Определяем закономерности, влияющие на успешность видеоигр, в целях планирования рекламной компании.                                                   | pandas, seaborn, matplotlib, scipy                               |
+| 9  | [Введение в машинное обучение](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2009%20«Введение%20в%20машинное%20обучение»)     | Рекомендация тарифов                      | Обучаем модель машинного обучения для определения подходящего тарифа.                                                                                  | pandas, seaborn, matplotlib, sklearn                             |
+| 10 | [Обучение с учителем](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2010%20«Обучение%20с%20учителем»)                         | Отток клиентов                            | Прогнозируем отток клиентов банка.                                                                                                                     | pandas, matplotlib, sklearn                                      |
+| 11 | [Машинное обучение в бизнесе](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2011%20«Машинное%20обучение%20в%20бизнесе»)       | Выбор локации для скважины                | Определяем регион, в котором добыча нефти принесёт максимальную прибыль.                                                                               | pandas, matplotlib, seaborn, sklearn                             |
+| 12 | [Сборный Проект - 2](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2012%20«Сборный%20Проект%20-%202»)                         | Восстановление золота из руды             | Готовим прототип модели, предсказывающей коэффициент восстановления золота из руды по параметрам добычи и очистки.                                     | pandas, seaborn, matplotlib, sklearn                             |
+| 13 | [Линейная алгебра](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2013%20«Линейная%20алгебра»)                                 | Защита персональных данных клиентов       | Кодируем данные клиентов так, чтобы по ним нельзя было восстановить персональную информацию, но при этом не падало качество модели машинного обучения. | pandas, sklearn                                                  |
+| 14 | [Численные методы](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2014%20«Численные%20методы»)                                 | Определение стоимости автомобилей         | Определяем рыночную стоимость автомобиля по историческим данным: техническим характеристикам, комплектации и проч.                                     | pandas, CatBoost, LightGBM, matplotlib, seaborn, sklearn         |
+| 15 | [Временные ряды](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2015%20«Временные%20ряды»)                                     | Прогнозирование заказов такси             | Прогнозируем количество заказов такси на следующий час, чтобы привлекать больше водителей в пиковый период.                                            | pandas, CatBoost, matplotlib, statsmodels, sklearn               |
+| 17 | [Машинное обучение для текстов](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2017%20«Машинное%20обучение%20для%20текстов»)   | -                                         | Классифицируем комментарии на позитивные / негативные.                                                                                                 | pandas, CatBoost, sklearn                                        |
+| 19 | [Компьютерное зрение](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2019%20«Компьютерное%20зрение»)                           | Определение возраста покупателей          | Определяем возраст покупателей по изображению с его лицом.                                                                                             | pandas, tensorflow, keras                                        |
+| 22 | [Выпускной проект](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2022%20«Выпускной%20проект»)                                 | Финальный проект «Телеком»                | Прогнозируем отток клиентов.                                                                                                                           | pandas, LightGBM, CatBoost, sklearn, optuna, matplotlib, seaborn |
+
+
+## Интерпретатор и окружение
+Я использовал интерпретатор [Python 3.10.7](https://www.python.org/downloads/release/python-3107/).
+
+Рекомендую использовать виртуальное окружение. Его можно создать следующей командой:
+```
+python -m venv env
+```
+Все необходимые пакеты собраны в файле `win_requirements.txt`.
+Перед установкой пакетов не забудьте активировать виртуальную среду.
+Вы можете установить пакеты одной командой:
+```
+pip install -r win_requirements.txt
+```
