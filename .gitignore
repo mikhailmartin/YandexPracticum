@@ -7,8 +7,11 @@
 # bytecode
 __pycache__/
 
-/Теория
-/datasets
-
 # CatBoost
 catboost_info/
+
+# Теория
+theory/
+/50DS
+# Данные
+/datasets
