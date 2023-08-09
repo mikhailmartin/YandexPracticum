@@ -17,18 +17,3 @@
 | 17 | [Машинное обучение для текстов](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2017%20«Машинное%20обучение%20для%20текстов»)   | -                                         | Классифицируем комментарии на позитивные / негативные.                                                                                                 | pandas, CatBoost, sklearn                                        |
 | 19 | [Компьютерное зрение](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2019%20«Компьютерное%20зрение»)                           | Определение возраста покупателей          | Определяем возраст покупателей по изображению с его лицом.                                                                                             | pandas, tensorflow, keras                                        |
 | 22 | [Выпускной проект](https://github.com/mikhailmartin/YandexPracticum/tree/master/Спринт%2022%20«Выпускной%20проект»)                                 | Финальный проект «Телеком»                | Прогнозируем отток клиентов.                                                                                                                           | pandas, LightGBM, CatBoost, sklearn, optuna, matplotlib, seaborn |
-
-
-## Интерпретатор и окружение
-Я использовал интерпретатор [Python 3.10.7](https://www.python.org/downloads/release/python-3107/).
-
-Рекомендую использовать виртуальное окружение. Его можно создать следующей командой:
-```
-python -m venv env
-```
-Все необходимые пакеты собраны в файле `win_requirements.txt`.
-Перед установкой пакетов не забудьте активировать виртуальную среду.
-Вы можете установить пакеты одной командой:
-```
-pip install -r win_requirements.txt
-```
